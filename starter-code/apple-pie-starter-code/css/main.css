@@ -1,0 +1,95 @@
+/*body {
+  background-color: black;
+  width: 200px;
+}*/
+  h1 {
+    font: 18px/1.6 "Open Sans", sans-serif;
+    letter-spacing: 2px;
+    color: white;
+    padding-top: 70px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 100px;
+    width: 600px;
+    height: auto;
+  }
+
+  .inner-div
+{
+  padding-top: 70px;
+    margin: 0 auto;
+    width: 370px;
+}
+
+.image {
+  background-size: cover;
+  background-image: url('../images/apple-pie.jpg');
+  height: 100vh;
+  /*width: 100vh;*/
+  /*position: relative;*/
+  /*top: 30%;
+  margin: auto;*/
+
+}
+
+.content {
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+
+.recipe-info {
+  width: 400px;
+  height:auto;
+  margin: 0 auto 0 25%;
+}
+
+.cooking-info {
+  width: 300px;
+  height:auto;
+  margin: 0 auto 0 30%;
+  }
+
+p {
+  width: 93%;
+  margin-left: 3%;
+  font-size: 21px;
+  font-family: sans-serif;
+  color: #3c3c3c;
+  text-align: center;
+  margin-top: 7%;
+
+}
+
+
+
+h2 {
+  font: 18px/1.6 "Open Sans", sans-serif;
+  letter-spacing: 2px;
+  color: #000000;
+}
+
+ul {
+  font: 18px/1.6 "Open Sans", sans-serif;
+  letter-spacing: 2px;
+  color: #383535;
+  list-style-type: none;
+}
+
+li:before {
+content: " - ";
+}
+
+ol {
+  font: 18px/1.6 "Open Sans", sans-serif;
+  letter-spacing: 2px;
+  color: #383535;
+/*padding-left: 0;
+list-style-position:outside;*/
+/*left:-50%;*/
+}
+
+l1 {
+  list-style-position;
+}
